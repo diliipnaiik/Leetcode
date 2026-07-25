@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/diliipnaiik/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/diliipnaiik/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/diliipnaiik/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0240-search-a-2d-matrix-ii](https://github.com/diliipnaiik/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/diliipnaiik/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/diliipnaiik/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/diliipnaiik/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/diliipnaiik/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Union-Find
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/diliipnaiik/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/diliipnaiik/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
