@@ -4,6 +4,7 @@ public:
         int left = 0;
         int right = k - 1;
         int sum = 0;
+        
         for(int i = 0 ; i <= right ; i++){
             sum += nums[i];
         }
@@ -11,15 +12,16 @@ public:
         int maxSum = sum;
 
         while(right < nums.size() - 1){
-            sum = sum - nums[left];
-            left++;
-            right++;
-            sum = sum + nums[right];
+            sum -= nums[left];
 
-            if(sum > maxSum){
-                maxSum = sum;
-            }
+            left++;
+
+            right++;
+
+            sum += nums[right];
+
+            maxSum = max(sum,maxSum);
         }
-        return double(maxSum)/k;
+        return (double)maxSum/k;
     }
 };
