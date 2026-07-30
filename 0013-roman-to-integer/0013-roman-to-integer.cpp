@@ -17,7 +17,9 @@ public:
         int total = 0;
         int n = s.size();
         for(int i = 0 ; i < n ; i++){
-            if(i < n - 1 && value(s[i]) < value(s[i+1])){
+            int current = value(s[i]);
+            int next = (i + 1 < n) ? value(s[i + 1]) : 0;
+            if(current < next){
                 total -= value(s[i]);
             }
             else{
