@@ -89,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/diliipnaiik/Leetcode/tree/master/0013-roman-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/diliipnaiik/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/diliipnaiik/Leetcode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
