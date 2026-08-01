@@ -1,44 +1,31 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
+        vector<int> need(26,0);
+        vector<int> window(26,0);
+
         if(s1.size() > s2.size()){
             return false;
         }
 
-        unordered_map <char,int> need;
-        unordered_map<char,int>window;
-
-        for(char n : s1){
-            need[n]++;
-        }
-
-        int windowSize = s1.size();
-
-        for(int i = 0 ; i < windowSize ; i++){
-            window[s2[i]]++;
+        for(int i = 0 ; i < s1.size() ; i++){
+            need[s1[i] - 'a']++;
+            window[s2[i] - 'a']++;
         }
 
         if(window == need){
             return true;
         }
 
-        int left = 0;
+        for(int right = s1.size() ; right < s2.size() ; right++){
+            window[s2[right] - 'a']++;
 
-        for(int right = windowSize ; right < s2.size() ; right++){
-            window[s2[left]]--;
+            int left = right - s1.size();
+            window[s2[left] - 'a']--;
 
-            if(window[s2[left]] == 0){
-                window.erase(s2[left]);
-            }
-
-            left++;
-
-            window[s2[right]]++;
-
-            if(window == need){
+            if(need == window){
                 return true;
             }
-
         }
         return false;
     }
