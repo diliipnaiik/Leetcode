@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/diliipnaiik/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/diliipnaiik/Leetcode/tree/master/0137-single-number-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/diliipnaiik/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/diliipnaiik/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/diliipnaiik/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/diliipnaiik/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/diliipnaiik/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/diliipnaiik/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/diliipnaiik/Leetcode/tree/master/0016-3sum-closest) |
 | [0142-linked-list-cycle-ii](https://github.com/diliipnaiik/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/diliipnaiik/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/diliipnaiik/Leetcode/tree/master/0567-permutation-in-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/diliipnaiik/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/diliipnaiik/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/diliipnaiik/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/diliipnaiik/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/diliipnaiik/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/diliipnaiik/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/diliipnaiik/Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -116,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/diliipnaiik/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/diliipnaiik/Leetcode/tree/master/0137-single-number-ii) |
+| [0287-find-the-duplicate-number](https://github.com/diliipnaiik/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
