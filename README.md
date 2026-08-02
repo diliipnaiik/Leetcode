@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/diliipnaiik/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/diliipnaiik/Leetcode/tree/master/0016-3sum-closest) |
 | [0073-set-matrix-zeroes](https://github.com/diliipnaiik/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/diliipnaiik/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/diliipnaiik/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/diliipnaiik/Leetcode/tree/master/0016-3sum-closest) |
 | [0142-linked-list-cycle-ii](https://github.com/diliipnaiik/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0567-permutation-in-string](https://github.com/diliipnaiik/Leetcode/tree/master/0567-permutation-in-string) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/diliipnaiik/Leetcode/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/diliipnaiik/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/diliipnaiik/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Math
