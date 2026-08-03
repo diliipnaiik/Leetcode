@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/diliipnaiik/Leetcode/tree/master/0013-roman-to-integer) |
+| [0509-fibonacci-number](https://github.com/diliipnaiik/Leetcode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/diliipnaiik/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
 |  |
@@ -120,4 +121,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/diliipnaiik/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/diliipnaiik/Leetcode/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/diliipnaiik/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/diliipnaiik/Leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/diliipnaiik/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/diliipnaiik/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
