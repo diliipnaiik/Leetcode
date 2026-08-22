@@ -10,12 +10,12 @@ public:
             for(int j = 0 ; j < cols ; j++){
                 pq.push(matrix[i][j]);
 
-                if(pq.size() > k){
+                while(pq.size() > k){
                     pq.pop();
                 }
+
             }
         }
-
         return pq.top();
     }
 };
