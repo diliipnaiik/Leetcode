@@ -8,19 +8,18 @@ public:
             map[num]++;
          }
 
-        int n = nums.size(); 
-        vector<vector<int>> bucket(n+1);
+        priority_queue<pair<int,int> , vector<pair<int,int>> , greater<pair<int,int>>> minHeap;
+
         for(auto& p : map){
-            bucket[p.second].push_back(p.first);
+            minHeap.push({p.second,p.first});
+            if(minHeap.size() > k){
+                minHeap.pop();
+            }
         }
 
-        for(int i = n ; i >= 0 && k > ans.size() ; i--){
-            for(auto num : bucket[i]){
-                ans.push_back(num);
-                if(k == ans.size()){
-                    return ans;
-                }
-            }
+        while(!minHeap.empty()){
+            ans.push_back(minHeap.top().second);
+            minHeap.pop();
         }
         return ans;
     }
