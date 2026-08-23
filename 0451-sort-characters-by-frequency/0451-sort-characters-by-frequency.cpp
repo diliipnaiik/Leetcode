@@ -7,21 +7,17 @@ public:
             mp[c]++;
         }
 
-        priority_queue<pair<int,char>> maxHeap;
-
+        int n = s.size();
+        vector<vector<char>> bucket(n+1);
         for(auto& ch : mp){
-            maxHeap.push({ch.second,ch.first});
+            bucket[ch.second].push_back(ch.first);
         }
 
         string ans = "";
-
-        while(!maxHeap.empty()){
-            auto top = maxHeap.top();
-            int freq = top.first;
-            char ch = top.second;
-
-            ans.append(freq,ch);
-            maxHeap.pop();
+        for(int i = n ; i >= 0 ; i--){
+            for(char ch : bucket[i]){
+                ans.append(i,ch);
+            }
         }
         return ans;
     }
