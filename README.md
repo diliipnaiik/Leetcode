@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/diliipnaiik/Leetcode/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/diliipnaiik/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/diliipnaiik/Leetcode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/diliipnaiik/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/diliipnaiik/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/diliipnaiik/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/diliipnaiik/Leetcode/tree/master/0414-third-maximum-number) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/diliipnaiik/Leetcode/tree/master/0016-3sum-closest) |
 | [0142-linked-list-cycle-ii](https://github.com/diliipnaiik/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/diliipnaiik/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/diliipnaiik/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/diliipnaiik/Leetcode/tree/master/0567-permutation-in-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/diliipnaiik/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/diliipnaiik/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/diliipnaiik/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/diliipnaiik/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/diliipnaiik/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/diliipnaiik/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/diliipnaiik/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/diliipnaiik/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/diliipnaiik/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/diliipnaiik/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/diliipnaiik/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
