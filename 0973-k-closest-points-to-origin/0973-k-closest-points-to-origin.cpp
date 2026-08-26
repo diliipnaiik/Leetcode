@@ -7,7 +7,7 @@ public:
         for(int i = 0 ; i < points.size() ; i++){
             int x = points[i][0];
             int y = points[i][1];
-            int distance = x * x + y*y;
+            int distance = x*x + y*y;
 
             maxHeap.push({distance,i});
 
