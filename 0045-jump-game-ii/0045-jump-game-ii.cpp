@@ -11,11 +11,10 @@ public:
             if(curr_end == i){
                 jumps++;
                 curr_end = max_Reach;
-
-                if(curr_end >= nums.size() - 1){
+            }
+            if(curr_end >= nums.size() - 1){
                     return jumps;
                 }
-            }
         }
         return jumps;
     }
