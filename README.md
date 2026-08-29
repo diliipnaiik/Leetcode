@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/diliipnaiik/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0875-koko-eating-bananas](https://github.com/diliipnaiik/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/diliipnaiik/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1024-video-stitching](https://github.com/diliipnaiik/Leetcode/tree/master/1024-video-stitching) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/diliipnaiik/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/diliipnaiik/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/diliipnaiik/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/diliipnaiik/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/diliipnaiik/Leetcode/tree/master/0055-jump-game) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/diliipnaiik/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1024-video-stitching](https://github.com/diliipnaiik/Leetcode/tree/master/1024-video-stitching) |
 | [1903-largest-odd-number-in-string](https://github.com/diliipnaiik/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/diliipnaiik/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Math
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/diliipnaiik/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/diliipnaiik/Leetcode/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/diliipnaiik/Leetcode/tree/master/0509-fibonacci-number) |
+| [1024-video-stitching](https://github.com/diliipnaiik/Leetcode/tree/master/1024-video-stitching) |
 ## Recursion
 |  |
 | ------- |
