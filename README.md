@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/diliipnaiik/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/diliipnaiik/Leetcode/tree/master/0016-3sum-closest) |
 | [0040-combination-sum-ii](https://github.com/diliipnaiik/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/diliipnaiik/Leetcode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/diliipnaiik/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/diliipnaiik/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/diliipnaiik/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/diliipnaiik/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/diliipnaiik/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/diliipnaiik/Leetcode/tree/master/0055-jump-game) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/diliipnaiik/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1903-largest-odd-number-in-string](https://github.com/diliipnaiik/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/diliipnaiik/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/diliipnaiik/Leetcode/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/diliipnaiik/Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
