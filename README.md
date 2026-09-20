@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/diliipnaiik/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/diliipnaiik/Leetcode/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/diliipnaiik/Leetcode/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/diliipnaiik/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/diliipnaiik/Leetcode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/diliipnaiik/Leetcode/tree/master/0051-n-queens) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/diliipnaiik/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/diliipnaiik/Leetcode/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/diliipnaiik/Leetcode/tree/master/0031-next-permutation) |
 | [0142-linked-list-cycle-ii](https://github.com/diliipnaiik/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/diliipnaiik/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/diliipnaiik/Leetcode/tree/master/0295-find-median-from-data-stream) |
